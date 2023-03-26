@@ -1,0 +1,33 @@
+.background{
+background-color: #EEEEEE
+}
+.orangeFont{
+color: #FF652F;
+font-weight: bold;
+}
+.greenFont{
+color:#5BC5A7;
+font-weight: bold;
+}
+.textColor{
+color:#777777;
+}
+.headingPadding{
+padding-top: 10px;
+padding-bottom: 10px;
+font-weight: bold;
+}
+.centerAlign{
+text-align: center;
+}
+.inline{
+display: inline-block;
+}
+.customLink:hover {
+    color: green; 
+    border-radius: 5px;
+  }
+
+.body{
+font-family: Arial, Helvetica, sans-serif;
+}
